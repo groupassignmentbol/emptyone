@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 somebody change on github website
 (2:my local change Osmio)
 (3: kept working and added third line but somebody chnaged the master)
 (4: kept working and added 4 line but somebody chnaged the master)
+=======
+somebody change on github website (somebody change 2) 
+(2:my local change Osmio)
+>>>>>>> 7ae5e505f946a2c1533270ab813232d98ed0ceb9
